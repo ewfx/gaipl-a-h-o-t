@@ -45,11 +45,25 @@ Describe the major technical or non-technical challenges your team encountered.
 2. Install dependencies  
    ```sh
    npm install  # or pip install -r requirements.txt (for Python)
-   ```
+   `
+   For UI --> Angular package installation
+    npm install
+   For Python Packages:
+   Navigate to code/src --> Open command prompt
+    pip install requests
+	pip install joblib
+	pip install sklearn``
+	pip install langchain
+	pip install langchain_community
 3. Run the project  
    ```sh
    npm start  # or python app.py
    ```
+   ng serve
+
+   For Python:
+   Navigate to code/src/MonitorIncdient.py file
+   open command prompt and run the command:  "python MonitorIncdient.py" file
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Angular
