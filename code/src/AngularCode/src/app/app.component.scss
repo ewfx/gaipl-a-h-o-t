@@ -1,0 +1,166 @@
+mat-toolbar {
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+  }
+  
+  .spacer {
+    flex: 1;
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+
+  .carousel-item img {
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  .row div {
+    padding: 20px;
+    background: #f8f9fa;
+    margin: 10px;
+    border-radius: 10px;
+  }
+
+  .footer {
+    position: static;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #d71e28;; // Change color if needed
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .footer-container {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-left {
+    text-align: left;
+  }
+  
+  .footer-center {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .footer-right {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .footer-right a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  mat-icon {
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  mat-icon:hover {
+    transform: scale(1.2);
+  }
+  
+  .spacer {
+    flex: 1;
+  }
+  
+  .chat-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .chat-container {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 350px;
+    height: 400px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  
+  .chat-header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .chat-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sent {
+    align-self: flex-end;
+  }
+  
+  .received {
+    align-self: flex-start;
+  }
+  
+  mat-card {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    max-width: 80%;
+  }
+  
+  .sent mat-card {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .received mat-card {
+    background-color: #e0e0e0;
+  }
+  
+  .chat-input {
+    display: flex;
+    padding: 10px;
+    background: white;
+  }
+  
+  .input-field {
+    flex: 1;
+  }
+  .mat-toolbar.mat-primary {
+     background: #d71e28; 
+    color: #fff;
+}
+  

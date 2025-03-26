@@ -1,0 +1,62 @@
+<mat-toolbar color="primary">
+  <span class="logo">Hackathon-2025</span>
+  <span class="spacer"></span>
+
+  <button mat-button routerLink="/home">Home</button>
+  <button mat-button routerLink="/grid">Incidents</button>
+  <button mat-button>About</button>
+  <button mat-button>Contact</button>
+
+  <span class="spacer"></span>
+  <button mat-icon-button>
+    <mat-icon>account_circle</mat-icon>
+  </button>
+</mat-toolbar>
+
+<!-- Only the routed component will be displayed here -->
+<router-outlet></router-outlet>
+
+<!-- Footer -->
+<mat-toolbar color="primary" class="footer">
+  <div class="footer-container">
+    <div class="footer-left">
+      <!-- <h3>My Website</h3> -->
+      <p>&copy; 2024 My Company. All Rights Reserved.</p>
+    </div>
+
+     <div class="footer-center" style="margin-left: 100PX;
+     margin-right: 100px;">
+      <!-- <a mat-button routerLink="/about">About Us</a>
+      <a mat-button routerLink="/Incident">Incidents</a>
+      <a mat-button routerLink="/contact">Contact</a>
+      <a mat-button routerLink="/privacy">Privacy Policy</a> -->
+      <!-- <a href="https://facebook.com" target="_blank">
+        <mat-icon>facebook</mat-icon>
+      </a>
+      <a href="https://twitter.com" target="_blank">
+        <mat-icon>twitter</mat-icon>
+      </a>
+      <a href="https://linkedin.com" target="_blank">
+        <mat-icon>linkedin</mat-icon>
+      </a>
+      <a href="https://instagram.com" target="_blank">
+        <mat-icon>instagram</mat-icon>
+      </a> -->
+    </div> 
+
+    <!-- <div class="footer-right">
+      <a href="https://facebook.com" target="_blank">
+        <mat-icon>facebook</mat-icon>
+      </a>
+      <a href="https://twitter.com" target="_blank">
+        <mat-icon>twitter</mat-icon>
+      </a>
+      <a href="https://linkedin.com" target="_blank">
+        <mat-icon>linkedin</mat-icon>
+      </a>
+      <a href="https://instagram.com" target="_blank">
+        <mat-icon>instagram</mat-icon>
+      </a>
+    </div> -->
+  </div>
+</mat-toolbar>
