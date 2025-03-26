@@ -23,7 +23,8 @@ A brief overview of your project and its purpose. Mention which problem statemen
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1](https://github.com/ewfx/gaipl-a-h-o-t/blob/main/artifacts/demo/AHOTScreenshot1.jpg)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
