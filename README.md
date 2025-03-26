@@ -24,7 +24,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 🖼️ Screenshots:
 
 ![Screenshot 1](https://github.com/ewfx/gaipl-a-h-o-t/blob/main/artifacts/demo/AHOTScreenshot1.jpg)
-
+![Screenshot 2](https://github.com/ewfx/gaipl-a-h-o-t/blob/main/artifacts/demo/AHOTScreenshot2.jpg)
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
