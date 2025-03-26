@@ -52,11 +52,14 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
+- 🔹 Frontend: Angular
 - 🔹 Backend: Node.js / FastAPI / Django
 - 🔹 Database: PostgreSQL / Firebase
 - 🔹 Other: OpenAI API / Twilio / Stripe
+- Python
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **AHOT** - [GitHub](#) | [LinkedIn](#)
+- **Tabrez Khamar Mohamad** - [GitHub](#) | [LinkedIn](#)
+- **Durga Venkateswarrao** - [GitHub](#) | [LinkedIn](#)
+- **Aleem Akbar Sheikh** - [GitHub](#) | [LinkedIn](#)
