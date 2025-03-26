@@ -33,7 +33,9 @@ What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
-Currrent System--> Incident Resolution process for failures:
+
+## Currrent System--> Incident Resolution process for failures:
+
 Incident Detection and Notification:
 
 Upon the failure of an Autosys job/ITRS Portal/AppD/Elastic API portals, an automated event is generated and transmitted to the Triage system.
