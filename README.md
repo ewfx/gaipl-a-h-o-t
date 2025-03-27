@@ -34,7 +34,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
-1. While we are are working with the current project, we observed a lot of possibilities where we can automate the process with the current cutting edge technologies.
+1. In the current project, after seeing the incidents that are being raised and the amount of manual effort that is being performed. We observed a lot of possibilities where we can automate the process with the current cutting edge technologies.
 
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
