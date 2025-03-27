@@ -15,8 +15,9 @@
 
 ## 🎯 Introduction
 A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
-Integrated Platform Environment Automation.
-Proposing a solution where the current manual effort will be automated using GenAI, Agentic systems
+
+1. Integrated Platform Environment Automation.
+2. Proposing a solution where the current manual effort will be automated using GenAI and Agentic systems
 
 ## Initial commit
 
@@ -33,6 +34,8 @@ Proposing a solution where the current manual effort will be automated using Gen
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
+1. While we are are working with the current project, we observed a lot of possibilities where we can automate the process with the current cutting edge technologies.
+
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
 
@@ -47,12 +50,12 @@ This ServiceNow ticket, containing relevant incident information, is routed to t
 
 ## Current Incident Response and Resolution (Manual effort):
 
-A member of the designated support group receives notification of the ServiceNow ticket.
-The support team member accesses the relevant machine, checks their email for notifications, and logs into the ServiceNow portal.
-The support team member validates the ticket details and accesses the ServiceNow knowledge base (Kbase).
-If a matching Kbase article is identified, the support team member associates the Kbase article with the incident ticket.
-The support team member then initiates the resolution process based on the instructions provided in the associated Kbase article.
-If a matching Kbase article is not found, or if the Kbase resolution is unsuccessful, the support team member escalates the incident to the application development (App Dev) team for further investigation and resolution.
+1. A member of the designated support group receives notification of the ServiceNow ticket.
+2. The support team member accesses the relevant machine, checks their email for notifications, and logs into the ServiceNow portal.
+3. The support team member validates the ticket details and accesses the ServiceNow knowledge base (Kbase).
+4. If a matching Kbase article is identified, the support team member associates the Kbase article with the incident ticket.
+5. The support team member then initiates the resolution process based on the instructions provided in the associated Kbase article.
+6. If a matching Kbase article is not found, or if the Kbase resolution is unsuccessful, the support team member escalates the incident to the application development (App Dev) team for further investigation and resolution.
 
 ## Proposed GenAI-Agentic System (Automated):
 
