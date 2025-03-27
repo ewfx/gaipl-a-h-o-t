@@ -104,12 +104,12 @@ Automated Kbase Maintenance: The system will automatically identify and update o
 
 ## Benefits:
 
-Reduced incident resolution time.
-Improved accuracy and consistency of incident resolution.
-Reduced manual effort and human error.
-Enhanced knowledge management and Kbase utilization.
-Proactive incident prevention through pattern recognition and analysis.
-Improved system uptime.
+1. Reduced incident resolution time.
+2. Improved accuracy and consistency of incident resolution.
+3. Reduced manual effort and human error.
+4. Enhanced knowledge management and Kbase utilization.
+5. Proactive incident prevention through pattern recognition and analysis.
+6. Improved system uptime.
 
 
 ## 🛠️ How We Built It
