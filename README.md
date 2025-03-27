@@ -114,13 +114,15 @@ Automated Kbase Maintenance: The system will automatically identify and update o
 
 ## 🛠️ How We Built It
 Briefly outline the technologies, frameworks, and tools used in development.
-Angular -- Frontend monitoring of Agent process 
-Python  -- For utilyzing packages for GenAI
-FastAPI -- Service point to execute Python code
-SqlDB -- Store and retrieve Agent monitoring process
+1. Angular -- Frontend monitoring of Agent process
+2. Python  -- For utilyzing packages for GenAI
+3. FastAPI -- Service point to execute Python code
+4. SqlDB -- Store and retrieve Agent monitoring process
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
+
+	Time constraint :-)
 
 ## 🏃 How to Run
 1. Clone the repository  
