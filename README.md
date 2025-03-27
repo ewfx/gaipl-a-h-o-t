@@ -122,8 +122,6 @@ Briefly outline the technologies, frameworks, and tools used in development.
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
 
-	Time constraint :-)
-
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
