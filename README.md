@@ -43,10 +43,10 @@ Explain the key features and functionalities of your project.
 
 ## Incident Detection and Notification:
 
-Upon the failure of an Autosys job/ITRS Portal/AppD/Elastic API portals, an automated event is generated and transmitted to the Triage system.
-The Triage system subsequently forwards this event to the BigPanda platform based on the APPID and priority.
-BigPanda aggregates the event data and automatically generates a service ticket within the ServiceNow platform.
-This ServiceNow ticket, containing relevant incident information, is routed to the designated support group responsible for the affected service.
+1. Upon the failure of an Autosys job/ITRS Portal/AppD/Elastic API portals, an automated event is generated and transmitted to the **Triage system**.
+2. The ** Triage system ** subsequently forwards this event to the ** BigPanda platform ** based on the APPID and priority.
+3. ** BigPanda ** aggregates the event data and automatically generates a service ticket within the ServiceNow platform.
+4. This ServiceNow ticket, containing relevant incident information, is routed to the ** designated support group ** responsible for the affected service.
 
 ## Current Incident Response and Resolution (Manual effort):
 
